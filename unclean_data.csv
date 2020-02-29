@@ -1,0 +1,44 @@
+bulan_kejadian,kota_administrasi,kecamatan,kelurahan,rw,jumlah_kk,jumlah_jiwa,ketinggian_air,tgl_kejadian,meninggal,hilang,luka_berat,luka_ringan,jumlah_pengungsi_tertinggi,jumlah_tempat_pengungsi,kerugian
+10,Jakarta Pusat,sawah besar,gunung sahari utara,1,0,0,10 s/d 40 ,29,0,0,0,0,0,0,0
+10,Jakarta Barat,cengkareng,Rawa Buaya,"3, 11",0,0,20 s/d 30,29,0,0,0,0,0,0,0
+10,Jakarta Timur,jatinegara,kampung melayu,"4, 5",243,810,30 s/d 80 ," 23, 29",0,0,0,0,0,0,0
+10,Jakarta Timur,jatinegara,bidara cina,"7, 11",175,290,50 s/d 60 ,29,0,0,0,0,0,0,0
+10,Jakarta Timur,kramat jati,cawang,"1, 2, 3, 5",0,0,10 s/d 50 ,29,0,0,0,0,0,0,0
+11,Jakarta Utara,penjaringan,pluit,22,0,0,2 s/d 15 ," 26, 29",0,0,0,0,0,0,0
+11,Jakarta Utara,penjaringan,kamal muara,4,0,0,5 s/d 10 ," 26, 27",0,0,0,0,0,0,0
+11,Jakarta Barat,kalideres,kamal,1,0,0,5 s/d 30 ," 27, 28, 29",0,0,0,0,0,0,0
+11,Jakarta Selatan,kebayoran lama,pondok pinang,5,0,0,10 s/d 20 ,9,0,0,0,0,0,0,0
+11,Jakarta Selatan,pasar minggu,pejaten timur,"5, 6, 8",0,0,10 s/d 30 ,12,0,0,0,0,0,0,0
+11,Jakarta Selatan,pasar minggu,cilandak timur,"3, 9",0,0,10 s/d 30 ,28,0,0,0,0,0,0,0
+11,Jakarta Selatan,cilandak,gandaria selatan,"5, 7",0,0,60 s/d 70 ,28,0,0,0,0,0,0,0
+11,Jakarta Selatan,pesanggrahan,ulujami,1,825,4000,40 s/d 70 ,28,0,0,0,0,0,0,0
+11,Jakarta Timur,Makasar,cipinang melayu,"3, 4",560,1858,30 s/d 50 ,11,0,0,0,0,0,0,0
+11,Jakarta Timur,jatinegara,cipinang muara,13,60,240,60 s/d 80 ,11,0,0,0,0,0,0,0
+11,Jakarta Timur,jatinegara,kampung melayu,"4, 5, 7, 8",235,789,10 s/d 100 ,12,0,0,0,0,0,0,0
+11,Jakarta Timur,jatinegara,bidara cina,"7, 11",168,710,20 s/d 60 ,12,0,0,0,0,0,0,0
+11,Jakarta Timur,ciracas,rambutan,5,0,0,10 s/d 30 ,11,0,0,0,0,0,0,0
+11,Jakarta Timur,kramat jati,cawang,"2, 3, 5, 8",0,0,10 s/d 50 ,12,0,0,0,0,0,0,0
+11,Jakarta Timur,cakung,jatinegara,8,0,0,10 s/d 15 ,29,0,0,0,0,0,0,0
+11,Jakarta Timur,cakung,rawa terate,5,0,0,5 s/d 20 ,29,0,0,0,0,0,0,0
+12,Jakarta Utara,penjaringan,pluit,22,0,0,5 s/d 10 ," 4, 5, 7",0,0,0,0,0,0,0
+12,Jakarta Utara,penjaringan,kamal muara,4,0,0,3 s/d 10 ," 4, 5, 6, 7, 8, 11, 13",0,0,0,0,0,0,0
+12,Jakarta Utara,penjaringan,penjaringan,17,0,0,5 s/d 10 ,7,0,0,0,0,0,0,0
+12,Jakarta Barat,kalideres,kamal,1,0,0,6 s/d 10 ," 4, 5, 6, 11, 12",0,0,0,0,0,0,0
+12,Jakarta Barat,cengkareng,rawa buaya,"1, 2, 3, 4, 7, 8, 11",0,0,15 s/d 60 ,12,0,0,0,0,0,0,0
+12,Jakarta Barat,cengkareng,cengkareng timur,3,0,0,20 s/d 30 ,12,0,0,0,0,0,0,0
+12,Jakarta Barat,cengkareng,duri kosambi,"4, 5, 6",34,77,10 s/d 40 ,12,0,0,0,0,0,0,0
+12,Jakarta Barat,kembangan,kembangan utara,1,0,0,50,12,0,0,0,0,0,0,0
+12,Jakarta Selatan,cilandak,cilandak barat,"2, 6",0,0,20 s/d 60 ,4,0,0,0,0,0,0,0
+12,Jakarta Selatan,cilandak,pondok labu,7,0,0,20 s/d 60 ,13,0,0,0,0,0,0,0
+12,Jakarta Selatan,pancoran,kalibata,9,0,0,30,10,0,0,0,0,0,0,0
+12,Jakarta Selatan,pancoran,duren tiga,5,0,0,70,10,0,0,0,0,0,0,0
+12,Jakarta Selatan,mampang prapatan,bangka,"2, 3, 4",0,0,50 s/d 80 ," 10, 13",0,0,0,0,0,0,0
+12,Jakarta Selatan,kebayoran baru,petogogan,"1, 2, 3, 5",0,0,10 s/d 40 ," 10, 12, 13",0,0,0,0,0,0,0
+12,Jakarta Selatan,kebayoran baru,cipete utara,6,0,0,20 s/d 40 ,13,0,0,0,0,0,0,0
+12,Jakarta Selatan,pasar minggu,cilandak timur,"1, 3",0,0,10 s/d 100 ,13,0,0,0,0,0,0,0
+12,Jakarta Selatan,kebayoran lama,cipulir,10,0,0,30 s/d 80 ,13,0,0,0,0,0,0,0
+12,Jakarta Selatan,pesanggrahan,ulujami,1,0,0,20 s/d 40 ,11,0,0,0,0,0,0,0
+12,Jakarta Timur,cakung,rawa terate,5,0,0,10 s/d 100 ,3,0,0,0,0,0,0,0
+12,Jakarta Timur,cakung,cakung timur,9,210,800,20,3,0,0,0,0,0,0,0
+12,Jakarta Timur,makasar,cipinang melayu,4,0,0,10 s/d 30 ,6,0,0,0,0,0,0,0
+12,Jakarta Timur,ciracas,rambutan,"3, 5",0,0,10 s/d 50,11,0,0,0,0,0,0,0
